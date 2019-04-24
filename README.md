@@ -7,5 +7,7 @@ The analysis is based on kaggle *2015 Flight Delays and Cancellations* dataset, 
 
 
 **Sources**:
+
 Kaggle dataset: https://www.kaggle.com/usdot/flight-delays?fbclid=IwAR2GJGwOFuOSK1byAFtkIdx8AH-Zr3jkQSpN0r3AVcEWt0xgj4rCvnE7k2I#flights.csv
+
 Iowa State University weather data: https://mesonet.agron.iastate.edu/request/download.phtmlnetwork=CA_ASOS&fbclid=IwAR3XnA32GH8EI8kmlrzZq9YcukL9-S_CxK8aPdvjioQrbbN_6USAsLgQ13k
