@@ -5,6 +5,7 @@
 
 The analysis is based on kaggle *2015 Flight Delays and Cancellations* dataset, combined with weather data scrapped from Iowa State University weather data. The goal is to identify the main causes of delays for Californian airplanes and to use this infomation to forecast the delay for future departures. 
 
+## Data Visualization
 
 **Sources**:
 
