@@ -7,7 +7,7 @@ The analysis is based on kaggle *2015 Flight Delays and Cancellations* dataset, 
 
 ## Data Visualization
 
-Here are thre flights that are used in our analysis, those are all the flights that have a departure or an arrival in California.
+Here are the flights that are used in our analysis, those are all the flights that have a departure or an arrival in California.
 
 ![flight_map](https://user-images.githubusercontent.com/38164557/57184669-a3ce2000-6e73-11e9-8b31-eb4002be99f3.PNG)
 
@@ -15,7 +15,7 @@ Boosted trees can be analysed to retrieve how much weight they give to each feat
 
 ![feat_imp](https://user-images.githubusercontent.com/38164557/57184721-6b7b1180-6e74-11e9-8236-107c1891c93e.PNG)
 
-With a more in depth analysis of the main features at hand we can visualized how to choice of airline is going to influence the expected delay of the flight. On the following plot, the size of the bubble represent the number of flights and on the y-axis we can assess the avarage delay. While mainly all big airlines companies show an average delay for the smaller ones we observe a way more important difference with some of them showing almost no delay on average on others that have significantly lower statistics.
+With a more in depth analysis of the main features at hand we can visualized how the choice of airline is going to influence the expected delay of the flight. On the following plot, the size of the bubble represents the number of flights and on the y-axis we can assess the avarage delay. While mainly all big airlines companies show a delay that is average, for the smaller ones we observe a way more important difference with some of them showing almost no delay on average and others that have significantly higher statistics.
 
 ![Buble_chart](https://user-images.githubusercontent.com/38164557/57184710-41295400-6e74-11e9-8288-6addd9ba9ec6.PNG)
 
