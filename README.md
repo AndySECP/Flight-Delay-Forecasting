@@ -11,7 +11,7 @@ Here are the flights that are used in our analysis, those are all the flights th
 
 ![flight_map](https://user-images.githubusercontent.com/38164557/57184669-a3ce2000-6e73-11e9-8b31-eb4002be99f3.PNG)
 
-Boosted trees can be analysed to retrieve how much weight they give to each feature independently. Concerning the features that composed our dataset, the ranking of the importance of each of them, extracted from boosted trees is the following: 
+**Boosted trees** can be analysed to retrieve how much **weight they give to each feature independently**. Concerning the features that composed our dataset, the ranking of the importance of each of them, extracted from boosted trees is the following: 
 
 ![feat_imp](https://user-images.githubusercontent.com/38164557/57184721-6b7b1180-6e74-11e9-8236-107c1891c93e.PNG)
 
